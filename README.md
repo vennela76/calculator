@@ -1,9 +1,9 @@
 ## Simple React Calculator
-A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculator/
+A Calculator Using React JS - https://vennela.github.io/react-calculator/
 
 ## Demo Look
 
-##### Live Link: https://maniruzzamanakash.github.io/react-calculator/
+##### Live Link: https://vennela.github.io/react-calculator/
  
 ![A Calculator Using React JS][calculator-screenshot]
 
@@ -11,7 +11,7 @@ A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculat
 
 
 ## Live Test of React js Simple Calculator
-https://maniruzzamanakash.github.io/react-calculator
+https://vennela.github.io/react-calculator
 
 ## Demo Look In Operation
  
